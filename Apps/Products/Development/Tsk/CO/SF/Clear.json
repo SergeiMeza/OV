@@ -1,0 +1,160 @@
+{
+   "info": {
+      "jsonVersion": 0.1,
+      "appVersion": 0.1
+   },
+   "data": {
+      "dataVersion": 1,
+      "Settings": [
+                   {
+                   "My Lists": [
+                                {
+                                "listName": "Personal List",
+                                "listObjects": [
+                                                {
+                                                "name": "Press space to complete tasks",
+                                                "date": null,
+                                                "completed": false
+                                                },
+                                                {
+                                                "name": "Right-click tasks to complete",
+                                                "date": null,
+                                                "completed": false
+                                                },
+                                                {
+                                                "name": "Left-click tasks to edit",
+                                                "date": null,
+                                                "completed": false
+                                                },
+                                                {
+                                                "name": "Click and drag to re-order items",
+                                                "date": null,
+                                                "completed": false
+                                                },
+                                                {
+                                                "name": "Type anywhere to create items",
+                                                "date": null,
+                                                "completed": false
+                                                },
+                                                {
+                                                "name": "Swipe to the left to delete items",
+                                                "date": null,
+                                                "completed": false
+                                                },
+                                                {
+                                                "name": "Pinch vertically to close lists",
+                                                "date": null,
+                                                "completed": false
+                                                },
+                                                {
+                                                "name": "Scroll down to create items",
+                                                "date": null,
+                                                "completed": false
+                                                },
+                                                {
+                                                "name": "Scroll up to clear",
+                                                "date": null,
+                                                "completed": false
+                                                }
+                                                ]
+                                }
+                                ]
+                   },
+                   {
+                   "Sounds": [
+                              "Clear",
+                              "Sci-Fi",
+                              "8-bit"
+                              ]
+                   },
+                   {
+                   "Themes": [
+                              "Heat Map",
+                              "Graphite",
+                              "Pretty Princess",
+                              "Lucky Clover",
+                              "Theme Noir",
+                              "Magnificent",
+                              "Whale",
+                              "Sunflowers",
+                              "Scorched",
+                              "Night Owl"
+                              ]
+                   },
+                   {
+                   "Tips & Tricks": [
+                                     {
+                                     "label": "Welcome Tutorial",
+                                     "description": "Tutorial"
+                                     },
+                                     {
+                                     "label": "Click to Add Items",
+                                     "description": "Click Below your items to add a new item to the bottom of your list."
+                                     },
+                                     {
+                                     "label": "Insert between Items",
+                                     "description": "You can insert between items by hovering your mouse between them and starting to type. Alternatively you can wait for the new partially unfolded item to appear and then click."
+                                     },
+                                     {
+                                     "label": "Type to Create",
+                                     "description": "Just start typing when viewing a list to create tasks."
+                                     },
+                                     {
+                                     "label": "Right-Click to Complete",
+                                     "description": "Right-click on a task to complete it, or use the Space key to complete when hovering on a task."
+                                     },
+                                     {
+                                     "label": "Click to Clear",
+                                     "description": "Simply click completed tasks to clear them."
+                                     },
+                                     {
+                                     "label": "Up One Level",
+                                     "description": "Scrol down, past the \"Pull Down To Create\" item, in order to navigate up a level. you can also use the keyboard shorcut (command)^(up)"
+                                     },
+                                     {
+                                     "label": "Rename a List",
+                                     "description": "Hover your cursor over the list title and wait for the cursor to change, then click. Alternatively press the Right arrow key while hovering over a list."
+                                     },
+                                     {
+                                     "label": "Complete Lists",
+                                     "description": "You can complete or delete entire lists by swiping them left or right, just like with list items."
+                                     },
+                                     {
+                                     "label": "Quickly Switch Lists",
+                                     "description": "Use (Command)1, (Command)2, etc. to switch to the respective list. When viewing a list, you can also use (Command)(left)/(Command)(right) to switch to the previous and next lists."
+                                     },
+                                     {
+                                     "label": "Tear off a List",
+                                     "description": "When viewing your lists, click and drag a list out of the main window to open it in a new window."
+                                     }
+                                     ]
+                   },
+                   {
+                   "Follow the Team": [
+                                       "@OneVision",
+                                       "@SergeiMeza"
+                                       ]
+                   },
+                   {
+                   "Preferences": [
+                                   {
+                                   "label": "iCloud",
+                                   "value": false
+                                   },
+                                   {
+                                   "label": "Menu Bar Icon",
+                                   "value": false
+                                   },
+                                   {
+                                   "label": "Dock Badge",
+                                   "value": false
+                                   },
+                                   {
+                                   "label": "Sound Effects",
+                                   "value": false
+                                   }
+                                   ]
+                   }
+                   ]
+   }
+}

@@ -1,0 +1,34 @@
+
+"follow.thanks" = "Thanks for following us on Twitter";
+
+".cancel" = "Cancel";
+".ok" = "Ok";
+
+".error" = "An error occurred.";
+"error.tryAgain" = "Oops! An error occurred, please try again";
+"error.follow.tryAgain" = "Oops! An error occurred while following us, please try again.";
+
+"menu.appDescription" = "This APP has been lovely designed by 1Vision, a Japan-based indie studio";
+"menu.seeTutorial" = "Show Tutorial";
+"menu.follow" = "FOLLOW @1VisionStudio";
+"menu.newsletter" = "NEWSLETTER";
+"menu.contact" = "CONTACT US";
+
+
+"iap.notAllowed" = "In-app purchases are not allowed on this device.";
+
+"review.ask" = "Would you like to to leave a review about plusOne on the App Store? That would help us a lot!";
+"review.button.go" = "LEAVE A REVIEW";
+"review.button.leave" = "LATER";
+
+"shop.ask" = "MORE THINGS TO COUNT?";
+"shop.offer" = "UNLIMITED COUNTERS";
+
+".restore" = "Restore Purchases";
+".restored" = "Your purchase has been restored.";
+
+"tag.pull" = "PULL TO ADD";
+"tag.release" = "RELEASE TO ADD";
+
+".soundsOn" = "Sounds ON";
+".soundsOff" = "Sounds OFF";

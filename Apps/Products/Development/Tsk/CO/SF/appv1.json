@@ -1,0 +1,9 @@
+{
+  "app": {
+    "version": 1.0,
+    "objects" : [
+      "cheese", 
+      "tomato"
+    ]
+  }
+}

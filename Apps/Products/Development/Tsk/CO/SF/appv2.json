@@ -1,0 +1,12 @@
+{
+  "app": {
+    "version": 1.0,
+    "company" : "OneVision",
+    "objects" : [
+      "cheese", 
+      "tomato",
+      "bread"
+    ],
+    "Twitter" : ["@OneVision"]
+  }
+}
