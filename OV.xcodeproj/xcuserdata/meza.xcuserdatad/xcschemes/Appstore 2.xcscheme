@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E84A00241E4957C2000BB2D9"
-               BuildableName = "Appstore.app"
-               BlueprintName = "Appstore"
+               BlueprintIdentifier = "E86B190D1E49FBB100C7DFB9"
+               BuildableName = "Appstore 2.app"
+               BlueprintName = "Appstore 2"
                ReferencedContainer = "container:OV.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,9 +32,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E84A00241E4957C2000BB2D9"
-            BuildableName = "Appstore.app"
-            BlueprintName = "Appstore"
+            BlueprintIdentifier = "E86B190D1E49FBB100C7DFB9"
+            BuildableName = "Appstore 2.app"
+            BlueprintName = "Appstore 2"
             ReferencedContainer = "container:OV.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -55,9 +55,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E84A00241E4957C2000BB2D9"
-            BuildableName = "Appstore.app"
-            BlueprintName = "Appstore"
+            BlueprintIdentifier = "E86B190D1E49FBB100C7DFB9"
+            BuildableName = "Appstore 2.app"
+            BlueprintName = "Appstore 2"
             ReferencedContainer = "container:OV.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -74,9 +74,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E84A00241E4957C2000BB2D9"
-            BuildableName = "Appstore.app"
-            BlueprintName = "Appstore"
+            BlueprintIdentifier = "E86B190D1E49FBB100C7DFB9"
+            BuildableName = "Appstore 2.app"
+            BlueprintName = "Appstore 2"
             ReferencedContainer = "container:OV.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

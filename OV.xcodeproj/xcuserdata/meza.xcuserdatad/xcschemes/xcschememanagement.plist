@@ -4,10 +4,15 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Appstore.xcscheme</key>
+		<key>Appstore 1.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>12</integer>
+		</dict>
+		<key>Appstore 2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
 		</dict>
 		<key>CoolNavigationController.xcscheme</key>
 		<dict>
@@ -88,6 +93,11 @@
 			<true/>
 		</dict>
 		<key>E84A00241E4957C2000BB2D9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E86B190D1E49FBB100C7DFB9</key>
 		<dict>
 			<key>primary</key>
 			<true/>

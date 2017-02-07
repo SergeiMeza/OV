@@ -192,7 +192,8 @@ class AppDetailHeader:  BaseCell {
    
    let buyButton: UIButton = {
       let b = UIButton(type: .system)
-      b.setTitle("BUY", for: .normal)
+      b.setTitle("BUY", for: .init())
+//      b.setTitle("BUY", for: .normal)  // there is a difference between .init() and .normal (.normal doesnt highlight when tapped)
       b.layer.borderColor = UIColor.rgb(red: 0, green: 129, blue: 250).cg
       b.layer.borderWidth = 1
       b.layer.cornerRadius = 5
