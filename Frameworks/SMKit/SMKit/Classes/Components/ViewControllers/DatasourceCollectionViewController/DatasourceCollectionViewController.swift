@@ -47,6 +47,10 @@ open class DatasourceCollectionViewController: UICollectionViewController, UICol
       super.init(collectionViewLayout: UICollectionViewFlowLayout())
    }
    
+   public override init(collectionViewLayout layout: UICollectionViewLayout) {
+      super.init(collectionViewLayout: layout)
+   }
+   
    required public init?(coder aDecoder: NSCoder) {
       fatalError("init(coder:) has not been implemented")
    }
@@ -74,12 +78,6 @@ open class DatasourceCollectionViewController: UICollectionViewController, UICol
    
    open override func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
       return datasource?.numberOfItems(section) ?? 0
-   }
-   
-   
-   /// Need to override this otherwise size doesn't get called
-   public func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {
-      return .init(width: view.frame.width, height: 50)
    }
    
    open override func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {

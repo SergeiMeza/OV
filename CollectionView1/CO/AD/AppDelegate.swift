@@ -9,7 +9,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
       window = UIWindow()
       window?.makeKeyAndVisible()
-      window?.rootViewController = UINavigationController.init(rootViewController: FeaturedAppsController.init())
+      window?.rootViewController = UINavigationController(rootViewController: SmartCollectionViewController())
       return true
    }
 }

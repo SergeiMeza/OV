@@ -22,7 +22,7 @@ open class DatasourceCollectionViewCell: UICollectionViewCell {
       return lineView
    }()
    
-   override init(frame: CGRect) {
+   override public init(frame: CGRect) {
       super.init(frame: frame)
       setupViews()
    }

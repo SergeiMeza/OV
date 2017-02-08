@@ -24,6 +24,7 @@ class FeaturedApps: NSObject {
    }
 }
 
+
 class AppCategory: NSObject {
    
    var name: String?
@@ -56,6 +57,8 @@ class AppCategory: NSObject {
          
          do {
             let json = try(JSONSerialization.jsonObject(with: data!, options: .mutableContainers))
+            
+            print(json)
             
             let featuredApps = FeaturedApps()
             featuredApps.setValuesForKeys(json as! [String:AnyObject])

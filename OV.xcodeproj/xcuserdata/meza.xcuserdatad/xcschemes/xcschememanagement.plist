@@ -14,6 +14,11 @@
 			<key>orderHint</key>
 			<integer>13</integer>
 		</dict>
+		<key>CollectionView1.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
 		<key>CoolNavigationController.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -108,6 +113,11 @@
 			<true/>
 		</dict>
 		<key>E8A2D1281E3E51740097DA9E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E8AAFF971E4AA7AB0083337A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
